@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 800px ;
+    background-image: url(image/best-photo-editor-cover.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position:right bottom; */
+    background-blend-mode: multiply;
+}
+
+.header h2 {
+    font-size: 100px ;
+    padding: 290px 0px 0px 200px  ;
+    color: azure;
+}
+
+
+.myblog{
+    padding-top: 40px;
+    padding-bottom: 30px;
+    font-size: 40px;
+    color: darkorange;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration: underline wavy green;
+    
+}
+
+.blogs1{
+    padding-left: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding-top: 10px;
+    margin: 0px 60px 0px 50px ;
+}
+
+.blogs2{
+    padding-left: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding-top: 30px;
+    margin: 0px 60px 0px 50px ;
+}
+
+.blogs3{
+    padding-left: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding-top: 30px;
+    margin: 0px 60px 0px 50px ;
+}
+.blogs4{
+    padding-left: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    margin: 0px 60px 0px 50px ;
+}
+
+.button{
+    background-color: black;
+    color: cornsilk ;
+    margin: 10px 300px 20px 300px ;
+    
+    border: 3px solid rgb(3, 53, 235);
+    border-radius: 20px;
+
+}
+.button h3{
+    font-size: 40px;
+    text-align: center;
+}
+
+ul li{
+    display: inline;
+}
