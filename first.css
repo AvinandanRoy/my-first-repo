@@ -78,3 +78,26 @@
 ul li{
     display: inline;
 }
+
+.ForAudio{
+    margin-top: 100px;
+    display: flex;
+    height: 100px ;
+    width: 1900px;
+    background: rgb(0, 0, 0);
+    border-radius: 50px;
+}
+.ForAudio audio{
+    padding: 25px 0px 0px 10px ;
+}
+.ForAudio p{
+    padding: 37px 0px 0px 30px  ;
+    font-size: 20px ;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+
+.ForAudio img{
+    margin-left: 10px ;
+    border-radius: 50%;
+}
