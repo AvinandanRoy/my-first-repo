@@ -161,3 +161,35 @@ nav {
     margin-left: 10px ;
     border-radius: 50%;
 }
+
+/* **********VIDEO ***************** */
+
+.ForVideo{
+    background-color: #0c0c0c;
+    display: flex;
+    margin: 100px;
+}
+
+.video{
+    margin-left: 50px;
+}
+
+.videotext{
+    margin-left: 5px ;
+    margin-top: 30px ;
+    color: rgb(255, 253, 253);
+}
+
+.videotext p{
+    margin-top: 30px ;
+    font-family: cursive;
+}
+
+.videotext h3 {
+    font-size: 25px ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.ForVideo1{
+    display: flex;
+}
